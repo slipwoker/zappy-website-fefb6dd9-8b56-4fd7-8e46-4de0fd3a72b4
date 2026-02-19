@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+גלו את הקסם של משחקי קופסה למשפחה! משחקי חשיבה וחוויה לילדים ומבוגרים שיהפכו כל ערב למיוחד. בואו לשחק איתנו עכשיו!
+
+### אודות
+https://example.com/about
+למדו להכיר את הצוות שמביא לכם את משחקי הקופסה הכי מהנים בארץ. אנחנו מאמינים שכל משפחה ראויה לרגעי איכות מלאי צחוק ושמחה.
+
+### שירותים
+https://example.com/services
+משחקי חשיבה וחוויה לילדים ומבוגרים, משחקי קופסה למשפחה ומשחקים חברתיים לכל אירוע. בחרו את המשחק המושלם שלכם מהמבחר הרחב!
+
+### צור קשר
+https://example.com/contact
+יש לכם שאלה על משחק מסוים? רוצים ייעוץ אישי למשחק מושלם לערב המשפחתי? צרו איתנו קשר ונשמח לעזור ולהמליץ על המשחק הבא שלכם!
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
